@@ -1,0 +1,3 @@
+# Lesson 1
+
+This tutorial represent Lazy Foo's [lesson one](https://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/msvc2019/index.php). The steps followed are identical, except the path to the `SDL2.dll` module is added via `Configuration Properties > Debugging > Environment` instead of modifying the `PATH` environment variable, as per [here](https://stackoverflow.com/questions/2119539/how-do-i-set-the-path-to-a-dll-file-in-visual-studio).
