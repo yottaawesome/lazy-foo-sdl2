@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson01-HelloSDL", "Lesson
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson02-GettingAnImageOnTheScreen", "Lesson02-GettingAnImageOnTheScreen\Lesson02-GettingAnImageOnTheScreen.vcxproj", "{ED2FF312-CCC5-42E7-8245-BE62657C8A0B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson03-EventDrivenProgramming", "Lesson03-EventDrivenProgramming\Lesson03-EventDrivenProgramming.vcxproj", "{FE9B6A66-5D70-47B8-B591-E22931C47D80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{ED2FF312-CCC5-42E7-8245-BE62657C8A0B}.Release|x64.Build.0 = Release|x64
 		{ED2FF312-CCC5-42E7-8245-BE62657C8A0B}.Release|x86.ActiveCfg = Release|Win32
 		{ED2FF312-CCC5-42E7-8245-BE62657C8A0B}.Release|x86.Build.0 = Release|Win32
+		{FE9B6A66-5D70-47B8-B591-E22931C47D80}.Debug|x64.ActiveCfg = Debug|x64
+		{FE9B6A66-5D70-47B8-B591-E22931C47D80}.Debug|x64.Build.0 = Debug|x64
+		{FE9B6A66-5D70-47B8-B591-E22931C47D80}.Debug|x86.ActiveCfg = Debug|Win32
+		{FE9B6A66-5D70-47B8-B591-E22931C47D80}.Debug|x86.Build.0 = Debug|Win32
+		{FE9B6A66-5D70-47B8-B591-E22931C47D80}.Release|x64.ActiveCfg = Release|x64
+		{FE9B6A66-5D70-47B8-B591-E22931C47D80}.Release|x64.Build.0 = Release|x64
+		{FE9B6A66-5D70-47B8-B591-E22931C47D80}.Release|x86.ActiveCfg = Release|Win32
+		{FE9B6A66-5D70-47B8-B591-E22931C47D80}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
