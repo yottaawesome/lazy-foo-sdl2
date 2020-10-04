@@ -8,6 +8,8 @@ My in-development walkthrough of Lazy Foo' Productions' [SDL2 tutorial](https://
 
 The SDL2 binaries and headers for Windows have been included in this repository, so running the code in this repo should just be a case of cloning and opening the solution file in any version of Visual Studio 2019 that has the _Desktop development with C++_ workload. For a clean set-up of a project with SDL2, please consult [lesson one](https://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/msvc2019/index.php).
 
+This repository is intended to be used alongside reading the tutorials, hence each tutorial comprises a different project in the solution. While going through the code, it's important to note that it's written as part of a tutorial; it's deliberately simplistic in order to highlight the key concepts of working with SDL2. Real world programs utilising SDL2 would be structured and written quite differently to what is contained here.
+
 ## Deviations from the tutorials
 
 ### General
