@@ -1,6 +1,8 @@
 /*This source code copyrighted by Lazy Foo' Productions (2004-2020)
 and may not be redistributed without written permission.*/
 
+// https://lazyfoo.net/tutorials/SDL/02_getting_an_image_on_the_screen/index.php
+
 //Using SDL and standard IO
 #include <SDL.h>
 #include <stdio.h>

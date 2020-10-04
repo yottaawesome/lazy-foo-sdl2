@@ -1,6 +1,8 @@
 /*This source code copyrighted by Lazy Foo' Productions (2004-2020)
 and may not be redistributed without written permission.*/
 
+// https://lazyfoo.net/tutorials/SDL/01_hello_SDL/index.php
+
 //Using SDL and standard IO
 #include <SDL.h>
 #include <stdio.h>
