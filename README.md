@@ -26,3 +26,4 @@ Where I've deviated from the tutorials by making my own changes (whether that be
 * [SDL website](https://www.libsdl.org/)
 * [SDL Wiki](http://wiki.libsdl.org/FrontPage)
 * [SDL GitHub mirror](https://github.com/SDL-mirror/SDL)
+* [SDL_image 2.0](http://www.libsdl.org/projects/SDL_image/)
