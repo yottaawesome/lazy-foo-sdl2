@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson05-OptimizedSurfaceLo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson06-ExtensionLibrariesAndLoadingOtherImageFormats", "Lesson06-ExtensionLibrariesAndLoadingOtherImageFormats\Lesson06-ExtensionLibrariesAndLoadingOtherImageFormats.vcxproj", "{479346D1-F0E2-411F-862C-5206A23DD9D8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson07-TextureLoadingAndRendering", "Lesson07-TextureLoadingAndRendering\Lesson07-TextureLoadingAndRendering.vcxproj", "{FDF7BC6B-100F-4BFB-959C-A479B2A98008}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{479346D1-F0E2-411F-862C-5206A23DD9D8}.Release|x64.Build.0 = Release|x64
 		{479346D1-F0E2-411F-862C-5206A23DD9D8}.Release|x86.ActiveCfg = Release|Win32
 		{479346D1-F0E2-411F-862C-5206A23DD9D8}.Release|x86.Build.0 = Release|Win32
+		{FDF7BC6B-100F-4BFB-959C-A479B2A98008}.Debug|x64.ActiveCfg = Debug|x64
+		{FDF7BC6B-100F-4BFB-959C-A479B2A98008}.Debug|x64.Build.0 = Debug|x64
+		{FDF7BC6B-100F-4BFB-959C-A479B2A98008}.Debug|x86.ActiveCfg = Debug|Win32
+		{FDF7BC6B-100F-4BFB-959C-A479B2A98008}.Debug|x86.Build.0 = Debug|Win32
+		{FDF7BC6B-100F-4BFB-959C-A479B2A98008}.Release|x64.ActiveCfg = Release|x64
+		{FDF7BC6B-100F-4BFB-959C-A479B2A98008}.Release|x64.Build.0 = Release|x64
+		{FDF7BC6B-100F-4BFB-959C-A479B2A98008}.Release|x86.ActiveCfg = Release|Win32
+		{FDF7BC6B-100F-4BFB-959C-A479B2A98008}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

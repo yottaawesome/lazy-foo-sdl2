@@ -14,7 +14,7 @@ This repository is intended to be used alongside reading the tutorials, hence ea
 
 ### General
 
-The steps followed in this repository are mostly identical to the tutorial steps for all projects. However, I've chosen to add the `SDL2.dll` and `SDL2_image.dll` module paths to each project individually via `Configuration Properties > Debugging > Environment` instead of modifying the `PATH` environment variable globally, as per [here](https://stackoverflow.com/questions/2119539/how-do-i-set-the-path-to-a-dll-file-in-visual-studio). This means that running the samples should just be a case of cloning, building and running them -- there is no need to modify your global `PATH`. In addition to this, I've moved all media files for each project into their own directories with the name `<n>-media`.
+The steps followed in this repository are mostly identical to the tutorial steps for all projects. However, I've chosen to add the `SDL2.dll` and `SDL2_image.dll` module paths to each project individually via `Configuration Properties > Debugging > Environment` instead of modifying the `PATH` environment variable globally, as per [here](https://stackoverflow.com/questions/2119539/how-do-i-set-the-path-to-a-dll-file-in-visual-studio). This means that running the samples should just be a case of cloning, building and running them -- there is no need to modify your global `PATH`. In addition to this, I've moved all media files for each project into their own directories with the name `<n>-media`. These are copied to the output directory as part of the build process.
 
 ### Project-specific
 
